@@ -27,7 +27,7 @@ let dates:number = Number(prompt("Введіть ваш вік: "))
 if (dates >= 18){
     console.log("Доступ відритий!")
 } else if(dates <= 18){
-    console.log("Доступ закритий")
+    console.log("Доступ обмежений!")
 }
 
 //TASK #4
